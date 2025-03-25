@@ -35,11 +35,9 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 
 <img align="left" alt="Html5" title="Html5" width="30px" heigth="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Html5" title="Html5" width="30px" heigth="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
 <img align="left" alt="Html5" title="Html5" width="30px" heigth="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-<img align="left" alt="Html5" title="Html5" width="30px" heigth="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 
 <img align="left" alt="Html5" title="Html5" width="30px" heigth="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
