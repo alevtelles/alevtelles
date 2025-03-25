@@ -9,10 +9,11 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
    <p align="left">
       <a href="https://www.linkedin.com/in/avt-elles/">
          <img alt="Linkedin" title="Follow me on linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+       <a href="mailto:alevtelles@gmail.com" target="blank">
+         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://www.threads.net/@oh_valente_">
          <img alt="Threads" title="Follow me on Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/></a>
-      <a href="mailto:alevtelles@gmail.com" target="blank">
-         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     
    </p>
 
 ---
