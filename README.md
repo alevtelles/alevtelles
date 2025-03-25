@@ -57,13 +57,6 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 
 <br/>
 <br/>
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
 
 ---
 
