@@ -55,13 +55,11 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 
 </div>
 
-<br/>
-<br/>
+
 
 ---
 
-<br/>
-<br/>
+
 
 ### 📈 Estatísicas
 
