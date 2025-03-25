@@ -51,7 +51,6 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 
 <img  align="left" alt="Docker" title="Docker" width="40px" heigth="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
-<img align="left" alt="AWS" title="AWS" width="40px" heigth="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
 
