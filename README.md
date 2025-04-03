@@ -18,8 +18,11 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 ---
 
 ### 🚀 Linguagens e Tecnologias
+<div>
+   <img align="left" alt="Github Stats"  height="200px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
 
-<img align="left" alt="Github Stats"  height="200px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
 
 <br/>
 <br/>
