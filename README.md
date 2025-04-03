@@ -66,4 +66,3 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 
 ---
 
-_Este README foi gerado automaticamente com base nas informações disponíveis em meu perfil e repositórios públicos._
