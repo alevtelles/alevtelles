@@ -58,9 +58,6 @@ soluções eficazes, sempre alinhadas com as necessidades dos clientes e as melh
 <img align="left" alt="Django" title="Django" width="40px" heigth="40px" style="padding-right: 5px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-<img align="left" alt="GoLang" title="GoLang" width="40px" heigth="40px" style="padding-right: 5px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-
 <img align="left" alt="MongoDB" title="MongoDB" width="40px" heigth="40px" style="padding-right: v"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
