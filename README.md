@@ -18,15 +18,10 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 ---
 
 ### 🚀 Linguagens e Tecnologias
-<div style="flex flex-column">
-   <img align="left" alt="Github Stats"  height="200px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
+
+   <img align="center" alt="Github Stats"  height="250px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 
-
-<br/>
-<br/>
-<div style="flex flex-row justify-between align-items-center">
 
 <img align="left" alt="Html5" title="Html5" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -57,7 +52,6 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 <img  align="left" alt="Docker" title="Docker" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
 
-</div>
 
 <br/>
 <br/>
