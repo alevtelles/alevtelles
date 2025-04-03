@@ -57,7 +57,6 @@ A Gestão Eletrônica de Documentos (GED) no Sicredi é uma solução tecnológi
 
 A plataforma digital do Banco Sofisa Direto foi desenvolvida com foco em alta disponibilidade, segurança e escalabilidade, utilizando uma arquitetura moderna baseada em microsserviços e tecnologias cloud-native. Vamos detalhar os principais aspectos técnicos envolvidos no desenvolvimento e operação dessa plataforma.
 
----
 
 ## 📬 Entre em Contato
 
