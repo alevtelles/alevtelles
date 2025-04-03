@@ -41,7 +41,7 @@ Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a e
 <img align="left" alt="NextJS" title="NextJS" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
 <img align="left" alt="TailwindCSS" title="TailwindCSS" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
+<br>
 <img align="left" alt="NodeJS" title="NodeJS" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="Python" title="Python" width="40px" heigth="40px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
