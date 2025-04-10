@@ -34,9 +34,9 @@ Apaixonado por tecnologia e sempre em busca de novos desafios.
 ## 🌟 Estatísticas do GitHub e Tecnologias Utilizadas
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=dark" />
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&langs_count=8&theme=dark&custom_title=Tecnologias"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&langs_count=8&theme=github_dark&custom_title=Tecnologias"/>
 </div>
 
 ---
