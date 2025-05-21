@@ -27,6 +27,7 @@ Apaixonado por tecnologia e sempre em busca de novos desafios.
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=FastAPI)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
 ---
