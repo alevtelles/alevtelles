@@ -49,6 +49,9 @@ Apaixonado por tecnologia e sempre em busca de novos desafios.
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [Pipeline de Dados - Estabelecimentos e Vendas](https://github.com/alevtelles/pipeline-estabelecimento-vendas)
+Este projeto implementa um pipeline de dados estruturado em camadas (Bronze, Silver e Gold), com foco na coleta, processamento e análise de dados relacionados a estabelecimentos e seus pedidos/vendas. O projeto foi desenvolvido sobre a plataforma Databricks utilizando arquivos .dbc.
+
 ### [Merchant Portal do Banco Santander](https:#)
 
 O Merchant Portal do Santander é uma plataforma digital projetada para que comerciantes possam acompanhar e gerenciar pedidos de compra e pagamentos online, incluindo informações relacionadas a processos de compensação e liquidação.
