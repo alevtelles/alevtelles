@@ -49,6 +49,9 @@ Apaixonado por tecnologia e sempre em busca de novos desafios.
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [Agente Virtual com IA](https://github.com/alevtelles/Agente-virtual-com-IA)
+Este projeto apresenta a implementação de um agente virtual full-stack, pronto para produção, utilizando as tecnologias mais avançadas do ecossistema de inteligência artificial. Por meio da integração de ferramentas modernas para orquestração de agentes, modelos de linguagem de última geração e APIs de busca em tempo real, esta solução demonstra robustez, escalabilidade e eficiência para aplicações inteligentes.
+
 ### [Pipeline de Dados - Estabelecimentos e Vendas](https://github.com/alevtelles/pipeline-estabelecimento-vendas)
 Este projeto implementa um pipeline de dados estruturado em camadas (Bronze, Silver e Gold), com foco na coleta, processamento e análise de dados relacionados a estabelecimentos e seus pedidos/vendas. O projeto foi desenvolvido sobre a plataforma Databricks utilizando arquivos .dbc.
 
