@@ -62,7 +62,7 @@ Este projeto implementa um pipeline de dados estruturado em camadas (Bronze, Sil
 ## 📬 Entre em Contato
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail:  
-📩 **[alevtelles@example.com](mailto:alevtelles@gmail.com)**
+📩 **[alevtelles@gmail.com](mailto:alevtelles@gmail.com)**
 
 ---
 
