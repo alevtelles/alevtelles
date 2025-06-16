@@ -49,6 +49,9 @@ Apaixonado por tecnologia e sempre em busca de novos desafios.
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [Assitente de Compras Inteligente com LangChain + PineconeDB + Gemini](https://github.com/alevtelles/assisnte-de-compras-inteligente)
+Este projeto consiste na implementação de um Assistente de Compras Inteligente baseado em Inteligência Artificial, utilizando a arquitetura RAG (Retrieval-Augmented Generation), especialmente voltado para o setor de varejo e e-commerce.
+
 ### [Agente Virtual com IA](https://github.com/alevtelles/Agente-virtual-com-IA)
 Este projeto apresenta a implementação de um agente virtual full-stack, pronto para produção, utilizando as tecnologias mais avançadas do ecossistema de inteligência artificial. Por meio da integração de ferramentas modernas para orquestração de agentes, modelos de linguagem de última geração e APIs de busca em tempo real, esta solução demonstra robustez, escalabilidade e eficiência para aplicações inteligentes.
 
