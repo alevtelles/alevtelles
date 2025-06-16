@@ -58,19 +58,6 @@ Este projeto apresenta a implementação de um agente virtual full-stack, pronto
 ### [Pipeline de Dados - Estabelecimentos e Vendas](https://github.com/alevtelles/pipeline-estabelecimento-vendas)
 Este projeto implementa um pipeline de dados estruturado em camadas (Bronze, Silver e Gold), com foco na coleta, processamento e análise de dados relacionados a estabelecimentos e seus pedidos/vendas. O projeto foi desenvolvido sobre a plataforma Databricks utilizando arquivos .dbc.
 
-### [Merchant Portal do Banco Santander](https:#)
-
-O Merchant Portal do Santander é uma plataforma digital projetada para que comerciantes possam acompanhar e gerenciar pedidos de compra e pagamentos online, incluindo informações relacionadas a processos de compensação e liquidação.
-​​
-
-### [GED (Gestão Eletrônica de Documentos) do Sicredi](https:#)
-
-A Gestão Eletrônica de Documentos (GED) no Sicredi é uma solução tecnológica implementada para aprimorar o gerenciamento de documentos dentro da cooperativa, permitindo a digitalização, armazenamento, organização e recuperação eficiente de documentos.
-
-### [Banco Sofisa Direto](https:#)
-
-A plataforma digital do Banco Sofisa Direto foi desenvolvida com foco em alta disponibilidade, segurança e escalabilidade, utilizando uma arquitetura moderna baseada em microsserviços e tecnologias cloud-native. Vamos detalhar os principais aspectos técnicos envolvidos no desenvolvimento e operação dessa plataforma.
-
 
 ## 📬 Entre em Contato
 
