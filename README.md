@@ -2,11 +2,13 @@
 
 ## Sobre mim
 
-Desenvolvedor de software especializado em tecnologias modernas, incluindo React, Next.js, TypeScript, React Native, Python, Django, Node.js e agora estudando GoLang.
+### Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados em decisões estratégicas.
 
-Ao longo da minha carreira, desenvolvi soluções inovadoras que aprimoraram a eficiência e a experiência do usuário em diversos projetos. Minha abordagem proativa e habilidades técnicas me permitem transformar desafios complexos em soluções eficazes, sempre alinhadas com as necessidades dos clientes e as melhores práticas do setor.
-
-Apaixonado por tecnologia e sempre em busca de novos desafios.
+🔍 **O que eu faço**  
+- Construo pipelines de dados com Airflow, Databricks, dbt e SQL  
+- Automatizo fluxos inteligentes com N8N + LLMs (OpenAI, Claude, Gemini)  
+- Implanto soluções em cloud (Azure, AWS, GCP) com foco em performance e governança  
+- Trabalho com NLP, MLflow, Prompt Engineering e arquitetura de soluções
 
 - 🌍 Localização: Criciúma, SC
 - 💼 Atualmente trabalhando em projetos pessoais e colaborativos
