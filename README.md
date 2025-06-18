@@ -1,8 +1,6 @@
-# Olá, eu sou o Alex Telles! 👋
+# 👋 Olá, eu sou Alexsander Valente
 
-## Sobre mim
-
-### Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados em decisões estratégicas.
+Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados em decisões estratégicas.
 
 🔍 **O que eu faço**  
 - Construo pipelines de dados com Airflow, Databricks, dbt e SQL  
@@ -10,9 +8,8 @@
 - Implanto soluções em cloud (Azure, AWS, GCP) com foco em performance e governança  
 - Trabalho com NLP, MLflow, Prompt Engineering e arquitetura de soluções
 
-- 🌍 Localização: Criciúma, SC
-- 💼 Atualmente trabalhando em projetos pessoais e colaborativos
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/avt-elles/)
+📫 Vamos conversar?  
+[🌐 Site pessoal](https://alexsander.app.br) | [🔗 LinkedIn](https://www.linkedin.com/in/alexsander-valente/)  
 
 ---
 
