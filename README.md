@@ -49,6 +49,9 @@ Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados 
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [🩺 Assistente Virtual Médico com IA - Solução Baseada em RAG](https://github.com/alevtelles/Assistente-Medico-IA)
+Este repositório contém uma API construída com FastAPI para um Assistente Médico Virtual baseado em Inteligência Artificial. Utilizando LLMs, LangChain e técnicas de RAG (Retrieval-Augmented Generation), o sistema responde a perguntas médicas com base em documentos clínicos, artigos científicos e guidelines médicos.
+
 ### [Assitente de Compras Inteligente com LangChain + PineconeDB + Gemini](https://github.com/alevtelles/assisnte-de-compras-inteligente)
 Este projeto consiste na implementação de um Assistente de Compras Inteligente baseado em Inteligência Artificial, utilizando a arquitetura RAG (Retrieval-Augmented Generation), especialmente voltado para o setor de varejo e e-commerce.
 
