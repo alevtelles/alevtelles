@@ -50,7 +50,9 @@ Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados 
 Aqui estão alguns dos meus projetos mais recentes:
 
 ### [👨🏽‍🏫 Professor Wiki](https://web-production-2d568.up.railway.app/)
-Professor Wiki é uma plataforma de inteligência artificial que transforma qualquer documento em uma fonte de conhecimento conversacional. Conecte seus arquivos, sites e vídeos a modelos de IA avançados e obtenha respostas precisas baseadas no seu próprio conteúdo. OBS: Para usar você precisa colocar a sua API_KEY para testar a versão teste.
+Professor Wiki é uma plataforma de inteligência artificial projetada para ser como uma Wikipedia personalizada para sua empresa. Ela transforma qualquer documento, site ou vídeo em uma fonte de conhecimento conversacional, permitindo que seus colaboradores acessem informações de forma prática e inteligente. Conecte seus arquivos e conteúdos a modelos de IA avançados e obtenha respostas precisas, totalmente baseadas no seu material.
+
+OBS: Para começar a usar, é necessário inserir sua API_KEY para testar a versão demo.
 
 ### [🩺 Assistente Virtual Médico com IA - Solução Baseada em RAG](https://github.com/alevtelles/Assistente-Medico-IA)
 Este repositório contém uma API construída com FastAPI para um Assistente Médico Virtual baseado em Inteligência Artificial. Utilizando LLMs, LangChain e técnicas de RAG (Retrieval-Augmented Generation), o sistema responde a perguntas médicas com base em documentos clínicos, artigos científicos e guidelines médicos.
