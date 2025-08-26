@@ -49,6 +49,9 @@ Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados 
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [🤖 Backend - Sistema de Consultoria de Investimentos com IA](https://github.com/alevtelles/consultoria-investimentos-com-ia)
+Sistema backend desenvolvido em FastAPI para fornecer consultoria personalizada de investimentos usando inteligência artificial.
+
 ### [🏦 Agente Mercado Pix](https://github.com/alevtelles/agente-crewai-mercado-pix)
 Professor Wiki é uma plataforma de inteligência artificial projetada para ser como uma Wikipedia personalizada para sua empresa. Ela transforma qualquer documento, site ou vídeo em uma fonte de conhecimento conversacional, permitindo que seus colaboradores acessem informações de forma prática e inteligente. Conecte seus arquivos e conteúdos a modelos de IA avançados e obtenha respostas precisas, totalmente baseadas no seu material.
 
