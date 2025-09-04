@@ -49,6 +49,11 @@ Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados 
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+### [💡 POC Gestão de Risco e Compliance](https://github.com/alevtelles/intelligent-risk-engine)
+Esta POC é de uma plataforma enterprise de inteligência artificial para gestão de risco e compliance em instituições financeiras, integrando machine learning, processamento em tempo real e automação regulatória.
+
+
+
 ### [🤖 Backend - Sistema de Consultoria de Investimentos com IA](https://github.com/alevtelles/consultoria-investimentos-com-ia)
 Sistema backend desenvolvido em FastAPI para fornecer consultoria personalizada de investimentos usando inteligência artificial.
 
