@@ -1,12 +1,26 @@
 # 👋 Olá, eu sou Alexsander Valente
 
-Engenheiro de Dados & Inteligência Artificial apaixonado por transformar dados em decisões estratégicas.
+🚀 Sobre mim
 
-🔍 **O que eu faço**  
-- Construo pipelines de dados com Airflow, Databricks, dbt e SQL  
-- Automatizo fluxos inteligentes com N8N + LLMs (OpenAI, Claude, Gemini)  
-- Implanto soluções em cloud (Azure, AWS, GCP) com foco em performance e governança  
-- Trabalho com NLP, MLflow, Prompt Engineering e arquitetura de soluções
+Sou Engenheiro de Software, Dados e Inteligência Artificial, apaixonado por transformar dados em decisões estratégicas e criar soluções inteligentes que geram impacto real nos negócios.
+
+💡 O que faço
+
+Construo pipelines de dados escaláveis com Airflow, Databricks, Spark, Kafka e dbt
+
+Desenvolvo backends, APIs e arquiteturas distribuídas com foco em performance e governança
+
+Implanto e monitoro LLMs, RAGs e agentes inteligentes usando LangChain, CrewAI, N8N e MLOps (MLflow, CI/CD, monitoramento)
+
+Trabalho com NLP, Machine Learning e Prompt Engineering aplicados em soluções corporativas
+
+Atuo em clouds (Azure, AWS e GCP) garantindo segurança, escalabilidade e governança
+
+🎯 Experiência
+Tenho pós-graduação em Engenharia de Dados, Inteligência Artificial e Machine Learning, além de experiência prática em projetos para bancos, fintechs e grandes empresas, sempre direcionado à inovação, automação e transformação digital.
+
+📊 Missão
+Unir tecnologia, dados e IA para criar soluções inteligentes que acelerem a tomada de decisão, otimizem processos e tragam vantagem competitiva às organizações.
 
 📫 Vamos conversar?  
 [🌐 Site pessoal](https://alexsander.app.br) | [🔗 LinkedIn](https://www.linkedin.com/in/alexsander-valente/)  
