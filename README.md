@@ -65,7 +65,7 @@ Sistema backend desenvolvido em FastAPI para fornecer consultoria personalizada 
 ### [🏦 Agente Mercado Pix](https://github.com/alevtelles/agente-crewai-mercado-pix)
 Professor Wiki é uma plataforma de inteligência artificial projetada para ser como uma Wikipedia personalizada para sua empresa. Ela transforma qualquer documento, site ou vídeo em uma fonte de conhecimento conversacional, permitindo que seus colaboradores acessem informações de forma prática e inteligente. Conecte seus arquivos e conteúdos a modelos de IA avançados e obtenha respostas precisas, totalmente baseadas no seu material.
 
-### [👨🏽‍🏫 Professor Wiki](https://web-production-2d568.up.railway.app/)
+### [👨🏽‍🏫 Professor Wiki](https://github.com/alevtelles/professor-wiki
 Professor Wiki é uma plataforma de inteligência artificial projetada para ser como uma Wikipedia personalizada para sua empresa. Ela transforma qualquer documento, site ou vídeo em uma fonte de conhecimento conversacional, permitindo que seus colaboradores acessem informações de forma prática e inteligente. Conecte seus arquivos e conteúdos a modelos de IA avançados e obtenha respostas precisas, totalmente baseadas no seu material.
 
 OBS: Para começar a usar, é necessário inserir sua API_KEY para testar a versão demo.
