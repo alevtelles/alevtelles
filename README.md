@@ -59,7 +59,7 @@ Unir tecnologia, dados e IA para criar soluções inteligentes que acelerem a to
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-### [🧱 Databricks Lakehouse - Pipeline de Ingestão e Governança de Dados]([https://github.com/alevtelles/consultoria-investimentos-com-ia](https://github.com/alevtelles/pipeline-de-ingestao-de-dados))
+### [🧱 Databricks Lakehouse - Pipeline de Ingestão e Governança de Dados]([(https://github.com/alevtelles/pipeline-de-ingestao-de-dados)])
 Este repositório contém a implementação de uma arquitetura Lakehouse utilizando Databricks, Apache Spark e Delta Lake, com foco em ingestão, transformação e governança de dados através do Unity Catalog e versionamento integrado ao GitHub.
 
 
