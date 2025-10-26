@@ -2,21 +2,11 @@
 
 #### 🚀 Sobre mim
 
-Sou Engenheiro de Software, Dados e Inteligência Artificial, apaixonado por transformar dados em decisões estratégicas e criar soluções inteligentes que geram impacto real nos negócios.
+Profissional com mais de 10 anos de experiência em tecnologia, tendo iniciado a carreira como Engenheiro de Software em 2014 e, nos últimos anos, consolidado uma trajetória sólida em Engenharia de Dados e Inteligência Artificial.
 
-#### 💡 O que faço
+Atuo no desenvolvimento de arquiteturas de dados modernas, pipelines escaláveis e soluções baseadas em IA, conectando engenharia, automação e valor de negócio. Tenho experiência prática com Databricks, Apache Spark, Airflow, Kafka, Delta Lake, LangChain e CrewAI, aplicando DataOps e MLOps para garantir eficiência, governança e escalabilidade.
 
-- Construo pipelines de dados escaláveis com Airflow, Databricks, Spark, Kafka e dbt
-- Desenvolvo backends, APIs e arquiteturas distribuídas com foco em performance e governança
-- Implanto e monitoro LLMs, RAGs e agentes inteligentes usando LangChain, CrewAI, N8N e MLOps (MLflow, CI/CD, monitoramento)
-- Trabalho com NLP, Machine Learning e Prompt Engineering aplicados em soluções corporativas
-- Atuo em clouds (Azure, AWS e GCP) garantindo segurança, escalabilidade e governança
-
-#### 🎯 Experiência
-Tenho pós-graduação em Engenharia de Dados, Inteligência Artificial e Machine Learning, além de experiência prática em projetos para bancos, fintechs e grandes empresas, sempre direcionado à inovação, automação e transformação digital.
-
-#### 📊 Missão
-Unir tecnologia, dados e IA para criar soluções inteligentes que acelerem a tomada de decisão, otimizem processos e tragam vantagem competitiva às organizações.
+Nos últimos anos, venho aprofundando minha atuação em LLMs, RAG, NLP e arquiteturas Lakehouse, com entregas estratégicas em bancos, fintechs e consultorias — incluindo Santander, Sicredi e Sofisa. Meu foco é unir engenharia de dados e inteligência artificial para transformar dados em decisões inteligentes e inovação real.
 
 📫 Vamos conversar?  
 [🌐 Site pessoal](https://alexsander.app.br) | [🔗 LinkedIn](https://www.linkedin.com/in/alexsander-valente/)  
