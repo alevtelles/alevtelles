@@ -1,5 +1,4 @@
 # 🚀 Sobre mim
----
 
 Sou Alexsander Valente, Engenheiro de Dados e Inteligência Artificial, com mais de dez anos de experiência em tecnologia. Iniciei minha trajetória como Engenheiro de Software, desenvolvendo sistemas web, APIs e soluções corporativas com Python, JavaScript, TypeScript e SQL, além de frameworks como Django, FastAPI, NodeJS, ReactJS e NextJS. Essa base consolidou minha visão de arquitetura, escalabilidade e qualidade de código, que hoje aplico no universo de dados e IA.
 
@@ -15,7 +14,7 @@ Combinando experiência em engenharia de software, dados e IA, crio ecossistemas
 ---
 
 ## 🚀 Tecnologias e Ferramentas
----
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
@@ -36,7 +35,7 @@ Combinando experiência em engenharia de software, dados e IA, crio ecossistemas
 ---
 
 ## 🌟 Estatísticas do GitHub e Tecnologias Utilizadas
----
+
 
 <div align="left">
 
@@ -49,7 +48,6 @@ Combinando experiência em engenharia de software, dados e IA, crio ecossistemas
 ---
 
 ## 🔥 Projetos Destacados
-===
 
 Aqui estão alguns dos meus projetos mais recentes:
 
@@ -82,7 +80,6 @@ Este projeto implementa um pipeline de dados estruturado em camadas (Bronze, Sil
 
 
 ## 📬 Entre em Contato
----
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail:  
 📩 **[alevtelles@gmail.com](mailto:alevtelles@gmail.com)**
