@@ -2,11 +2,13 @@
 
 #### 🚀 Sobre mim
 
-Profissional com mais de 10 anos de experiência em tecnologia, tendo iniciado a carreira como Engenheiro de Software em 2014 e, nos últimos anos, consolidado uma trajetória sólida em Engenharia de Dados e Inteligência Artificial.
+Sou Alexsander Valente, Engenheiro de Dados e Inteligência Artificial, com mais de dez anos de experiência em tecnologia. Iniciei minha trajetória como Engenheiro de Software, desenvolvendo sistemas web, APIs e soluções corporativas com Python, JavaScript, TypeScript e SQL, além de frameworks como Django, FastAPI, NodeJS, ReactJS e NextJS. Essa base consolidou minha visão de arquitetura, escalabilidade e qualidade de código, que hoje aplico no universo de dados e IA.
 
-Atuo no desenvolvimento de arquiteturas de dados modernas, pipelines escaláveis e soluções baseadas em IA, conectando engenharia, automação e valor de negócio. Tenho experiência prática com Databricks, Apache Spark, Airflow, Kafka, Delta Lake, LangChain e CrewAI, aplicando DataOps e MLOps para garantir eficiência, governança e escalabilidade.
+Atuo no desenvolvimento de arquiteturas de dados modernas, pipelines escaláveis e soluções inteligentes. Tenho experiência prática com Databricks, Apache Spark, Airflow, Kafka, Delta Lake, LangChain e CrewAI, aplicando DataOps e MLOps para garantir eficiência, governança e alto desempenho.
 
-Nos últimos anos, venho aprofundando minha atuação em LLMs, RAG, NLP e arquiteturas Lakehouse, com entregas estratégicas em bancos, fintechs e consultorias — incluindo Santander, Sicredi e Sofisa. Meu foco é unir engenharia de dados e inteligência artificial para transformar dados em decisões inteligentes e inovação real.
+Nos últimos anos, aprofundei minha atuação em LLMs, RAG, NLP e arquiteturas Lakehouse, entregando soluções estratégicas para Santander, Sicredi, Sofisa e Openbank, com foco em transformar dados em decisões inteligentes e inovação de alto impacto.
+
+Combinando experiência em engenharia de software, dados e IA, crio ecossistemas integrados e sustentáveis com base em cloud computing (Azure, AWS e GCP). Meu propósito é conectar engenharia e inteligência para acelerar negócios, aumentar a eficiência e gerar impacto real por meio da inovação tecnológica.
 
 📫 Vamos conversar?  
 [🌐 Site pessoal](https://alexsander.app.br) | [🔗 LinkedIn](https://www.linkedin.com/in/alexsander-valente/)  
