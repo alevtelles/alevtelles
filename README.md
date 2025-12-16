@@ -1,41 +1,29 @@
-# 👋 Alexsander Valente  
-**Engenheiro de Dados & Inteligência Artificial**
-
 ![Profile](image.png)
 
-<<<<<<< HEAD
-Sou Engenheiro e Arquiteto de Dados e Inteligência Artificial com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**.
-=======
-## 👋 Sobre mim
->>>>>>> 7ebcdba (Ajustes no readme)
+# 👋 Alexsander V. Telles
 
 Sou **Engenheiro e Arquiteto de Dados e Inteligência Artificial** com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**, com foco em soluções escaláveis, governadas e orientadas a impacto de negócio.
 
-Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas com **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base me proporcionou uma visão sólida de **arquitetura de sistemas, escalabilidade, qualidade de código e ambientes distribuídos**.
+Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas com **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base consolidou uma visão sólida sobre **arquitetura de sistemas, escalabilidade, qualidade de código e ambientes distribuídos**.
 
 Atualmente, atuo no **desenho e implementação de arquiteturas modernas de dados e IA**, pipelines escaláveis e soluções inteligentes, utilizando **Databricks, Apache Spark, Airflow, Kafka e Delta Lake**, aplicando práticas de **DataOps e MLOps** para garantir **eficiência operacional, governança e confiabilidade**.
 
-Nos últimos anos, aprofundei minha atuação em **IA Generativa**, com foco em **LLMs, RAG, NLP, LangChain e CrewAI**, além de arquiteturas **Lakehouse**, sempre orientado a transformar dados e modelos em **decisão, automação e produtos inteligentes**.
+Nos últimos anos, aprofundei minha atuação em **Inteligência Artificial Generativa**, com foco em **LLMs, RAG, NLP, LangChain e CrewAI**, além de arquiteturas **Lakehouse**, sempre orientado a transformar dados e modelos em **decisão, automação e produtos inteligentes**.
 
 🔗 **IA Generativa na prática:**  
 👉 https://alexsander.app.br/genai
 
 ---
 
-📫 **Contato**  
-🌐 https://alexsander.app.br  
-🔗 https://www.linkedin.com/in/alexsander-valente/
----
-
 ## 🧠 Áreas de Atuação
 
-- Engenharia de Dados e Arquiteturas Analíticas
-- Inteligência Artificial e IA Generativa
-- Pipelines de Dados Escaláveis (Batch e Streaming)
-- RAG, LLMs e Agentes Inteligentes
-- DataOps, MLOps e Governança de Dados
-- Cloud Computing (AWS, Azure e GCP)
-- Arquitetura de Software e Sistemas Distribuídos
+- Engenharia de Dados e Arquiteturas Analíticas  
+- Inteligência Artificial e IA Generativa  
+- Pipelines de Dados Escaláveis (Batch e Streaming)  
+- RAG, LLMs e Agentes Inteligentes  
+- DataOps, MLOps e Governança de Dados  
+- Cloud Computing (AWS, Azure e GCP)  
+- Arquitetura de Software e Sistemas Distribuídos  
 
 ---
 
@@ -130,10 +118,6 @@ Pipeline de dados em camadas **Bronze, Silver e Gold**, desenvolvido no **Databr
 
 ## 📬 Contato
 
-Estou aberto a novas oportunidades, projetos e colaborações.
-
 📧 **Email:** [alevtelles@gmail.com](mailto:alevtelles@gmail.com)  
 🌐 **Site:** https://alexsander.app.br  
 🔗 **LinkedIn:** https://www.linkedin.com/in/alexsander-valente/
-
----
