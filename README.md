@@ -3,20 +3,28 @@
 
 ![Profile](image.png)
 
+<<<<<<< HEAD
 Sou Engenheiro e Arquiteto de Dados e Inteligência Artificial com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**.
+=======
+## 👋 Sobre mim
+>>>>>>> 7ebcdba (Ajustes no readme)
 
-Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas utilizando **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base sólida me proporcionou uma visão consistente sobre **arquitetura, escalabilidade, qualidade de código e sistemas distribuídos**.
+Sou **Engenheiro e Arquiteto de Dados e Inteligência Artificial** com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**, com foco em soluções escaláveis, governadas e orientadas a impacto de negócio.
 
-Atualmente, atuo no **desenho e implementação de arquiteturas modernas de dados**, pipelines escaláveis e soluções inteligentes orientadas a negócio. Tenho experiência prática com **Databricks, Apache Spark, Airflow, Kafka, Delta Lake**, além de aplicar práticas de **DataOps e MLOps** para garantir eficiência operacional, governança e confiabilidade.
+Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas com **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base me proporcionou uma visão sólida de **arquitetura de sistemas, escalabilidade, qualidade de código e ambientes distribuídos**.
 
-Nos últimos anos, aprofundei minha atuação em **IA Generativa**, trabalhando com **LLMs, RAG, NLP, LangChain e CrewAI**, além de arquiteturas **Lakehouse**. Entreguei soluções estratégicas para instituições como **Santander, Sicredi, Sofisa e Openbank**, sempre com foco em transformar dados em **decisão, automação e inovação de alto impacto**.
+Atualmente, atuo no **desenho e implementação de arquiteturas modernas de dados e IA**, pipelines escaláveis e soluções inteligentes, utilizando **Databricks, Apache Spark, Airflow, Kafka e Delta Lake**, aplicando práticas de **DataOps e MLOps** para garantir **eficiência operacional, governança e confiabilidade**.
 
-Meu propósito é **conectar engenharia e inteligência** para acelerar negócios, aumentar eficiência e gerar impacto real por meio da tecnologia.
+Nos últimos anos, aprofundei minha atuação em **IA Generativa**, com foco em **LLMs, RAG, NLP, LangChain e CrewAI**, além de arquiteturas **Lakehouse**, sempre orientado a transformar dados e modelos em **decisão, automação e produtos inteligentes**.
 
-📫 **Vamos conversar?**  
-🌐 [Site pessoal](https://alexsander.app.br)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alexsander-valente/)
+🔗 **IA Generativa na prática:**  
+👉 https://alexsander.app.br/genai
 
+---
+
+📫 **Contato**  
+🌐 https://alexsander.app.br  
+🔗 https://www.linkedin.com/in/alexsander-valente/
 ---
 
 ## 🧠 Áreas de Atuação
