@@ -3,7 +3,7 @@
 
 ![Profile](image.png)
 
-Sou Engenheiro de Dados e Inteligência Artificial com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**.
+Sou Engenheiro e Arquiteto de Dados e Inteligência Artificial com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**.
 
 Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas utilizando **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base sólida me proporcionou uma visão consistente sobre **arquitetura, escalabilidade, qualidade de código e sistemas distribuídos**.
 
