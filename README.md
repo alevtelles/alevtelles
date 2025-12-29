@@ -66,17 +66,6 @@ Currently focused on **Generative AI (LLMs, RAG, AI Agents)**, **AI-ready data p
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alevtelles&layout=compact&langs_count=8&theme=github_dark)
-
-
----
-
 ## 📬 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/alexsander-valente](https://linkedin.com/in/alexsander-valente)
