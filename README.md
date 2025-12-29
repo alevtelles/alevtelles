@@ -1,68 +1,58 @@
 ![Profile](image.png)
 
-# Alexsander Valente Telles
+# 👋 Alexsander V. Telles
 
-**Senior AI & Data Engineer** | LLMs • RAG • Data Platforms • MLOps
+Sou **Engenheiro e Arquiteto de Dados e Inteligência Artificial** com **mais de 10 anos de experiência em tecnologia**, atuando na interseção entre **engenharia de software, dados e IA aplicada**, com foco em soluções escaláveis, governadas e orientadas a impacto de negócio.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsander-valente)
-[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white)](https://alexsander.app.br)
-[![GenAI Hub](https://img.shields.io/badge/-GenAI_Hub-blueviolet?style=flat&logo=openai&logoColor=white)](https://alexsander.app.br/genai)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alevtelles@gmail.com)
+Iniciei minha trajetória como **Engenheiro de Software**, desenvolvendo sistemas web, APIs e soluções corporativas com **Python, JavaScript, TypeScript e SQL**, além de frameworks como **Django, FastAPI, Node.js, React e Next.js**. Essa base consolidou uma visão sólida sobre **arquitetura de sistemas, escalabilidade, qualidade de código e ambientes distribuídos**.
 
----
+Atualmente, atuo no **desenho e implementação de arquiteturas modernas de dados e IA**, pipelines escaláveis e soluções inteligentes, utilizando **Databricks, Apache Spark, Airflow, Kafka e Delta Lake**, aplicando práticas de **DataOps e MLOps** para garantir **eficiência operacional, governança e confiabilidade**.
 
-## About
+Nos últimos anos, aprofundei minha atuação em **Inteligência Artificial Generativa**, com foco em **LLMs, RAG, NLP, LangChain e CrewAI**, além de arquiteturas **Lakehouse**, sempre orientado a transformar dados e modelos em **decisão, automação e produtos inteligentes**.
 
-Senior AI & Data Engineer with **10+ years in technology**, bridging **Software Engineering**, **Data Engineering**, and **Applied AI** to deliver production-grade solutions for enterprise environments.
-
-Currently focused on **Generative AI (LLMs, RAG, AI Agents)**, **AI-ready data platforms**, and **MLOps**, with hands-on experience in **banking, fintech, and consulting** — including Santander, Sicredi, Sofisa, and Openbank.
-
-🔗 **GenAI Knowledge Hub:** [alexsander.app.br/genai](https://alexsander.app.br/genai)
+🔗 **IA Generativa na prática:**  
+👉 https://alexsander.app.br/genai
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Áreas de Atuação
 
-**AI & GenAI**
-`LangChain` `LangGraph` `CrewAI` `RAG` `OpenAI API` `Groq` `Pinecone` `ChromaDB`
-
-**Data Engineering**
-`Databricks` `Apache Spark` `Delta Lake` `Airflow` `Kafka` `dbt` `Unity Catalog`
-
-**Backend & Cloud**
-`Python` `FastAPI` `PostgreSQL` `Docker` `Kubernetes` `Azure` `AWS` `GCP`
-
-**Frontend**
-`React` `Next.js` `TypeScript` `Node.js`
+- Engenharia de Dados e Arquiteturas Analíticas  
+- Inteligência Artificial e IA Generativa  
+- Pipelines de Dados Escaláveis (Batch e Streaming)  
+- RAG, LLMs e Agentes Inteligentes  
+- DataOps, MLOps e Governança de Dados  
+- Cloud Computing (AWS, Azure e GCP)  
+- Arquitetura de Software e Sistemas Distribuídos  
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tecnologias e Ferramentas
 
-### 🏢 Enterprise Systems
+### Linguagens & Frameworks
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**sistema-cadastro-rh**](https://github.com/alevtelles/sistema-cadastro-rh) | Full R&S system with AI-powered resume screening, multi-channel notifications, and 94+ API endpoints | FastAPI, Next.js, OpenAI, PostgreSQL |
-| [**consultoria-investimentos-com-ia**](https://github.com/alevtelles/consultoria-investimentos-com-ia) | AI-powered investment consulting backend with multi-persona agents | FastAPI, LangChain, PostgreSQL, JWT |
+### Dados & IA
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
+![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333?style=flat&logo=apacheairflow)
+![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat&logo=apachekafka)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat)
+![CrewAI](https://img.shields.io/badge/-CrewAI-333?style=flat)
 
-### 🤖 AI Agents & RAG
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**neobank-assistant**](https://github.com/alevtelles/neobank-assistant) | Banking assistant demonstrating 3 AI workflow patterns (Non-Agentic → Agentic → AI Agent) | LangChain, LangGraph, Groq |
-| [**Assistente-Medico-IA**](https://github.com/alevtelles/Assistente-Medico-IA) | Medical RAG assistant using clinical documents and guidelines | FastAPI, Pinecone, Groq, LangChain |
-| [**agente-crewai-mercado-pix**](https://github.com/alevtelles/agente-crewai-mercado-pix) | Multi-agent system analyzing Pix ecosystem with real BCB data | CrewAI, Streamlit, BCB API |
-| [**professor-wiki**](https://github.com/alevtelles/professor-wiki) | Corporate knowledge base with conversational AI (PDF, URL, YouTube) | LangChain, ChromaDB, Streamlit |
-| [**assisnte-de-compras-inteligente**](https://github.com/alevtelles/assisnte-de-compras-inteligente) | E-commerce shopping assistant with RAG pipeline from MySQL to Pinecone | LangChain, Pinecone, Gemini |
-| [**Agente-virtual-com-IA**](https://github.com/alevtelles/Agente-virtual-com-IA) | Full-stack virtual agent with real-time web search and multi-LLM support | FastAPI, Streamlit, LangGraph, Tavily |
-
-### 📊 Data Engineering
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**pipeline-de-ingestao-de-dados**](https://github.com/alevtelles/pipeline-de-ingestao-de-dados) | Lakehouse architecture with Medallion pattern and data governance via Unity Catalog | Databricks, Spark, Delta Lake |
-| [**pipeline-estabelecimento-vendas**](https://github.com/alevtelles/pipeline-estabelecimento-vendas) | Data pipeline (Bronze → Silver → Gold) for sales and establishment analytics | Databricks, Spark, Delta Lake |
+### Bancos & Infraestrutura
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ---
 
@@ -75,15 +65,59 @@ Currently focused on **Generative AI (LLMs, RAG, AI Agents)**, **AI-ready data p
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Projetos em Destaque
 
-- 💼 **LinkedIn:** [linkedin.com/in/alexsander-valente](https://linkedin.com/in/alexsander-valente)
-- 🌐 **Website:** [alexsander.app.br](https://alexsander.app.br)
-- 🤖 **GenAI Hub:** [alexsander.app.br/genai](https://alexsander.app.br/genai)
-- 📧 **Email:** alevtelles@gmail.com
+### 🧱 Databricks Lakehouse — Pipeline de Ingestão e Governança
+🔗 https://github.com/alevtelles/pipeline-de-ingestao-de-dados  
+Arquitetura Lakehouse utilizando **Databricks, Apache Spark e Delta Lake**, com foco em ingestão, transformação, versionamento e governança via **Unity Catalog**.
 
 ---
 
-<div align="center">
-  <i>Open to remote opportunities in AI/Data Engineering — Europe & Global</i>
-</div>
+### 🤖 Sistema de Consultoria de Investimentos com IA (Backend)
+🔗 https://github.com/alevtelles/consultoria-investimentos-com-ia  
+Backend em **FastAPI** para consultoria personalizada de investimentos utilizando **Inteligência Artificial**.
+
+---
+
+### 🏦 Agente Mercado Pix
+🔗 https://github.com/alevtelles/agente-crewai-mercado-pix  
+Agente inteligente desenvolvido com **CrewAI**, voltado à análise e interação com dados do ecossistema Pix.
+
+---
+
+### 👨🏽‍🏫 Professor Wiki
+🔗 https://github.com/alevtelles/professor-wiki  
+Plataforma de IA que funciona como uma **Wikipedia corporativa**, permitindo consultas conversacionais baseadas em documentos, sites e vídeos internos.  
+**OBS:** é necessário configurar sua `API_KEY` para testar a versão demo.
+
+---
+
+### 🩺 Assistente Médico Virtual com IA (RAG)
+🔗 https://github.com/alevtelles/Assistente-Medico-IA  
+API em **FastAPI** para um assistente médico baseado em **LLMs, LangChain e RAG**, utilizando documentos clínicos, artigos científicos e guidelines.
+
+---
+
+### 🛒 Assistente de Compras Inteligente (RAG)
+🔗 https://github.com/alevtelles/assisnte-de-compras-inteligente  
+Assistente de compras para varejo e e-commerce utilizando **LangChain, PineconeDB e Gemini**, baseado em arquitetura RAG.
+
+---
+
+### 🤖 Agente Virtual com IA (Full Stack)
+🔗 https://github.com/alevtelles/Agente-virtual-com-IA  
+Agente virtual pronto para produção, com orquestração de agentes, LLMs modernos e APIs de busca em tempo real.
+
+---
+
+### 📈 Pipeline de Dados — Estabelecimentos e Vendas
+🔗 https://github.com/alevtelles/pipeline-estabelecimento-vendas  
+Pipeline de dados em camadas **Bronze, Silver e Gold**, desenvolvido no **Databricks**, focado em análise de estabelecimentos e vendas.
+
+---
+
+## 📬 Contato
+
+📧 **Email:** [alevtelles@gmail.com](mailto:alevtelles@gmail.com)  
+🌐 **Site:** https://alexsander.app.br  
+🔗 **LinkedIn:** https://www.linkedin.com/in/alexsander-valente/
