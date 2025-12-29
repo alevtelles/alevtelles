@@ -69,8 +69,9 @@ Currently focused on **Generative AI (LLMs, RAG, AI Agents)**, **AI-ready data p
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&langs_count=8&theme=github_dark&custom_title=Tecnologias"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&langs_count=8&theme=github_dark&custom_title=Tecnologias&cache_seconds=1800"/>
+
 </div>
 
 ---
