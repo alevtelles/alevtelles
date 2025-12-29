@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%"/>
 
 <div align="center">
-  <img src="image.png" width="120" style="border-radius: 50%"/>
+
   
   ## Alexsander Valente Telles
   
