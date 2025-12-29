@@ -41,25 +41,28 @@ Currently focused on **Generative AI (LLMs, RAG, AI Agents)**, **AI-ready data p
 
 ### 🏢 Enterprise Systems
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| [**sistema-cadastro-rh**](https://github.com/alevtelles/sistema-cadastro-rh) | Full R&S system with AI-powered resume screening, multi-channel notifications, and 94+ API endpoints | FastAPI, Next.js, OpenAI, PostgreSQL | — |
-| [**consultoria-investimentos-com-ia**](https://github.com/alevtelles/consultoria-investimentos-com-ia) | AI-powered investment consulting with multi-persona agents | FastAPI, LangChain, JWT | — |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**sistema-cadastro-rh**](https://github.com/alevtelles/sistema-cadastro-rh) | Full R&S system with AI-powered resume screening, multi-channel notifications, and 94+ API endpoints | FastAPI, Next.js, OpenAI, PostgreSQL |
+| [**consultoria-investimentos-com-ia**](https://github.com/alevtelles/consultoria-investimentos-com-ia) | AI-powered investment consulting backend with multi-persona agents | FastAPI, LangChain, PostgreSQL, JWT |
 
 ### 🤖 AI Agents & RAG
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| [**neobank-assistant**](https://github.com/alevtelles/neobank-assistant) | Banking assistant demonstrating 3 AI workflow patterns (Non-Agentic → Agentic → AI Agent) | LangChain, LangGraph, Groq | — |
-| [**Assistente-Medico-IA**](https://github.com/alevtelles/Assistente-Medico-IA) | Medical RAG assistant using clinical documents and guidelines | FastAPI, Pinecone, Groq | [**Live Demo**](https://assistente-medico-ia.vercel.app) |
-| [**agente-crewai-mercado-pix**](https://github.com/alevtelles/agente-crewai-mercado-pix) | Multi-agent system analyzing Pix ecosystem with real BCB data | CrewAI, Streamlit, BCB API | — |
-| [**professor-wiki**](https://github.com/alevtelles/professor-wiki) | Corporate knowledge base with conversational AI (PDF, URL, YouTube) | LangChain, ChromaDB, Streamlit | — |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**neobank-assistant**](https://github.com/alevtelles/neobank-assistant) | Banking assistant demonstrating 3 AI workflow patterns (Non-Agentic → Agentic → AI Agent) | LangChain, LangGraph, Groq |
+| [**Assistente-Medico-IA**](https://github.com/alevtelles/Assistente-Medico-IA) | Medical RAG assistant using clinical documents and guidelines | FastAPI, Pinecone, Groq, LangChain |
+| [**agente-crewai-mercado-pix**](https://github.com/alevtelles/agente-crewai-mercado-pix) | Multi-agent system analyzing Pix ecosystem with real BCB data | CrewAI, Streamlit, BCB API |
+| [**professor-wiki**](https://github.com/alevtelles/professor-wiki) | Corporate knowledge base with conversational AI (PDF, URL, YouTube) | LangChain, ChromaDB, Streamlit |
+| [**assisnte-de-compras-inteligente**](https://github.com/alevtelles/assisnte-de-compras-inteligente) | E-commerce shopping assistant with RAG pipeline from MySQL to Pinecone | LangChain, Pinecone, Gemini |
+| [**Agente-virtual-com-IA**](https://github.com/alevtelles/Agente-virtual-com-IA) | Full-stack virtual agent with real-time web search and multi-LLM support | FastAPI, Streamlit, LangGraph, Tavily |
 
 ### 📊 Data Engineering
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**pipeline-de-ingestao-de-dados**](https://github.com/alevtelles/pipeline-de-ingestao-de-dados) | Lakehouse architecture with Medallion pattern (Raw → Bronze → Silver → Gold) | Databricks, Spark, Delta Lake, Unity Catalog |
+| [**pipeline-de-ingestao-de-dados**](https://github.com/alevtelles/pipeline-de-ingestao-de-dados) | Lakehouse architecture with Medallion pattern and data governance via Unity Catalog | Databricks, Spark, Delta Lake |
+| [**pipeline-estabelecimento-vendas**](https://github.com/alevtelles/pipeline-estabelecimento-vendas) | Data pipeline (Bronze → Silver → Gold) for sales and establishment analytics | Databricks, Spark, Delta Lake |
 
 ---
 
