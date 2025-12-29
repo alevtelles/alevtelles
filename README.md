@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Alexsander%20Valente%20Telles&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20%26%20Data%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+![Profile](image.png)
 
 <!-- TYPING EFFECT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Building+AI-Powered+Data+Solutions;LLMs+%E2%80%A2+RAG+%E2%80%A2+Lakehouse+%E2%80%A2+MLOps)](https://git.io/typing-svg)
