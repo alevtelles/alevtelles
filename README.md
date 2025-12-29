@@ -4,7 +4,7 @@
 
 # Alexsander Valente Telles
 
-**Senior AI & Data Engineer** — Building intelligent systems that transform data into decisions
+**Senior AI & Data Engineer** | Building intelligent systems that transform data into decisions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsander-valente)
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=google-chrome&logoColor=white)](https://alexsander.app.br)
@@ -28,13 +28,13 @@ Started in **2014 as a Software Engineer** building web systems, APIs, and enter
 
 ## Areas of Expertise
 
-**AI Engineering** — Production RAG systems, multi-agent orchestration, LLM evaluation & tuning
+**AI Engineering** · Production RAG systems, multi-agent orchestration, LLM evaluation & tuning
 
-**Data Platforms** — Lakehouse architecture, real-time & batch pipelines, data governance
+**Data Platforms** · Lakehouse architecture, real-time & batch pipelines, data governance
 
-**MLOps** — Reproducible pipelines, experiment tracking, model deployment
+**MLOps** · Reproducible pipelines, experiment tracking, model deployment
 
-**Software Quality** — Clean architecture, CI/CD automation, production-grade code
+**Software Quality** · Clean architecture, CI/CD automation, production-grade code
 
 ---
 
@@ -42,10 +42,10 @@ Started in **2014 as a Software Engineer** building web systems, APIs, and enter
 
 End-to-end ML pipelines from experimentation to production:
 
-- **Training & Evaluation** — Modular pipelines with reproducible experiments
-- **Data & Model Versioning** — DVC for data, MLflow for experiments and model registry
-- **Model Serving** — FastAPI endpoints, Docker containers, AWS SageMaker
-- **CI/CD for ML** — Automated testing, validation gates, continuous deployment
+- **Training & Evaluation** · Modular pipelines with reproducible experiments
+- **Data & Model Versioning** · DVC for data, MLflow for experiments and model registry
+- **Model Serving** · FastAPI endpoints, Docker containers, AWS SageMaker
+- **CI/CD for ML** · Automated testing, validation gates, continuous deployment
 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
@@ -70,60 +70,9 @@ End-to-end ML pipelines from experimentation to production:
 
 ---
 
-## Featured Projects
-
-### MLOps Pipeline — Machine Learning in Production
-
-🔗 [github.com/alevtelles/mlops_project](https://github.com/alevtelles/mlops_project)
-
-End-to-end ML pipeline with **training, evaluation, and serving**. Modular architecture with **artifact versioning, Docker, CI/CD** ready for **MLflow and governance**.
-
-![Python](https://img.shields.io/badge/python-3.11+-3776AB?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### Data Engineering
-
-**[Lakehouse Pipeline](https://github.com/alevtelles/pipeline-de-ingestao-de-dados)** — Medallion architecture (Bronze → Silver → Gold) with Unity Catalog governance  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat)
-
-### AI Agents & RAG
-
-**[NeoBank Assistant](https://github.com/alevtelles/neobank-assistant)** — Banking AI demonstrating workflow evolution: Simple → Agentic → Autonomous  
-![Python](https://img.shields.io/badge/python-3.10+-3776AB?style=flat&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat) ![LangGraph](https://img.shields.io/badge/🔗_LangGraph-FF6B35?style=flat) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
-
-**[Medical RAG Assistant](https://github.com/alevtelles/Assistente-Medico-IA)** — Clinical decision support with hybrid search and source citation  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat)
-
-### Enterprise Systems
-
-**[HR System with AI Screening](https://github.com/alevtelles/sistema-cadastro-rh)** — Full-stack recruitment platform with 94+ endpoints and GPT-4 resume analysis  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**[Investment Consulting AI](https://github.com/alevtelles/consultoria-investimentos-com-ia)** — AI-powered advisory backend with multi-persona agents  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-### Multi-Agent Systems
-
-**[Pix Market Agent](https://github.com/alevtelles/agente-crewai-mercado-pix)** — Multi-agent analysis with real Central Bank data  
-![CrewAI](https://img.shields.io/badge/CrewAI-00D4AA?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3.11+-3776AB?style=flat&logo=python&logoColor=ffdd54)
-
-**[Professor Wiki](https://github.com/alevtelles/professor-wiki)** — Knowledge base with PDF, URL, and YouTube ingestion  
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alevtelles&theme=github-dark&hide_border=true&area=true" width="100%"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-
----
-
 ## Contact
 
-Open to remote opportunities in AI, Data, and MLOps Engineering — Europe, Americas, Global.
+Open to remote opportunities in AI, Data, and MLOps Engineering. Europe, Americas, Global.
 
 📍 Florianópolis, Brazil
 
