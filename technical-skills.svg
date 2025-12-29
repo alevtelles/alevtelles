@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="420" rx="16" fill="url(#bg)"/>
+  
+  <!-- Title -->
+  <text x="40" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#ffffff">
+    <tspan fill="#f59e0b">✦</tspan> Technical Skills
+  </text>
+  
+  <!-- Data Engineering -->
+  <text x="40" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#3b82f6">☰</tspan> Data Engineering
+  </text>
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="75" height="26" rx="13" fill="#374151"/><text x="37" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Databricks</text>
+    <rect x="85" y="0" width="55" height="26" rx="13" fill="#374151"/><text x="112" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Airflow</text>
+    <rect x="150" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="174" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Spark</text>
+    <rect x="208" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="232" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Kafka</text>
+    <rect x="266" y="0" width="38" height="26" rx="13" fill="#374151"/><text x="285" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">dbt</text>
+    <rect x="314" y="0" width="70" height="26" rx="13" fill="#374151"/><text x="349" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Delta Lake</text>
+    <rect x="0" y="32" width="55" height="26" rx="13" fill="#374151"/><text x="27" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">ETL/ELT</text>
+  </g>
+  
+  <!-- Cloud & DevOps -->
+  <text x="470" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#f97316">☁</tspan> Cloud &amp; DevOps
+  </text>
+  <g transform="translate(470, 100)">
+    <rect x="0" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="24" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Azure</text>
+    <rect x="58" y="0" width="45" height="26" rx="13" fill="#374151"/><text x="80" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">AWS</text>
+    <rect x="113" y="0" width="42" height="26" rx="13" fill="#374151"/><text x="134" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">GCP</text>
+    <rect x="165" y="0" width="52" height="26" rx="13" fill="#374151"/><text x="191" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Docker</text>
+    <rect x="227" y="0" width="75" height="26" rx="13" fill="#374151"/><text x="264" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Kubernetes</text>
+    <rect x="312" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="336" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">CI/CD</text>
+  </g>
+  
+  <!-- AI & ML -->
+  <text x="40" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#8b5cf6">⚡</tspan> AI &amp; ML
+  </text>
+  <g transform="translate(40, 200)">
+    <rect x="0" y="0" width="52" height="26" rx="13" fill="#374151"/><text x="26" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">MLflow</text>
+    <rect x="62" y="0" width="72" height="26" rx="13" fill="#374151"/><text x="98" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">LangChain</text>
+    <rect x="144" y="0" width="58" height="26" rx="13" fill="#374151"/><text x="173" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">CrewAI</text>
+    <rect x="212" y="0" width="72" height="26" rx="13" fill="#374151"/><text x="248" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">OpenAI API</text>
+    <rect x="294" y="0" width="40" height="26" rx="13" fill="#374151"/><text x="314" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">RAG</text>
+    <rect x="344" y="0" width="38" height="26" rx="13" fill="#374151"/><text x="363" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">NLP</text>
+    <rect x="0" y="32" width="115" height="26" rx="13" fill="#374151"/><text x="57" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Prompt Engineering</text>
+    <rect x="125" y="32" width="72" height="26" rx="13" fill="#374151"/><text x="161" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">LangGraph</text>
+  </g>
+  
+  <!-- Languages & Query -->
+  <text x="470" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#ec4899">&lt;/&gt;</tspan> Languages &amp; Query
+  </text>
+  <g transform="translate(470, 200)">
+    <rect x="0" y="0" width="95" height="26" rx="13" fill="#374151"/><text x="47" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Python (Expert)</text>
+    <rect x="105" y="0" width="105" height="26" rx="13" fill="#374151"/><text x="157" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">SQL (Advanced)</text>
+    <rect x="220" y="0" width="55" height="26" rx="13" fill="#374151"/><text x="247" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Node.js</text>
+    <rect x="285" y="0" width="75" height="26" rx="13" fill="#374151"/><text x="322" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">TypeScript</text>
+  </g>
+  
+  <!-- Software Engineering -->
+  <text x="40" y="295" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#10b981">&lt;&gt;</tspan> Software Engineering
+  </text>
+  <g transform="translate(40, 305)">
+    <rect x="0" y="0" width="55" height="26" rx="13" fill="#374151"/><text x="27" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Django</text>
+    <rect x="65" y="0" width="55" height="26" rx="13" fill="#374151"/><text x="92" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">FastAPI</text>
+    <rect x="130" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="154" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">React</text>
+    <rect x="188" y="0" width="52" height="26" rx="13" fill="#374151"/><text x="214" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Next.js</text>
+    <rect x="250" y="0" width="90" height="26" rx="13" fill="#374151"/><text x="295" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Microservices</text>
+    <rect x="0" y="32" width="68" height="26" rx="13" fill="#374151"/><text x="34" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">REST APIs</text>
+  </g>
+  
+  <!-- Governance & Methodologies -->
+  <text x="470" y="295" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">
+    <tspan fill="#f43f5e">◎</tspan> Governance &amp; Methodologies
+  </text>
+  <g transform="translate(470, 305)">
+    <rect x="0" y="0" width="82" height="26" rx="13" fill="#374151"/><text x="41" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Data Quality</text>
+    <rect x="92" y="0" width="48" height="26" rx="13" fill="#374151"/><text x="116" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">LGPD</text>
+    <rect x="150" y="0" width="42" height="26" rx="13" fill="#374151"/><text x="171" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Agile</text>
+    <rect x="202" y="0" width="50" height="26" rx="13" fill="#374151"/><text x="227" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">Scrum</text>
+    <rect x="262" y="0" width="52" height="26" rx="13" fill="#374151"/><text x="288" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">MLOps</text>
+    <rect x="324" y="0" width="58" height="26" rx="13" fill="#374151"/><text x="353" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#e5e7eb" text-anchor="middle">DataOps</text>
+  </g>
+  
+</svg>
