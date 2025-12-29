@@ -76,13 +76,7 @@ Started in **2014 as a Software Engineer** building web systems, APIs, and enter
 
 ---
 
-## GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alevtelles&theme=github-dark&hide_border=true&area=true" width="100%"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-
----
 
 ## Contact
 
