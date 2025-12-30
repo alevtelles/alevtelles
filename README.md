@@ -2,81 +2,130 @@
 
 ![Profile](image.png)
 
-# Alexsander Telles
-Senior Data & AI Engineer | Generative AI | Data Platforms | RAG & Intelligent Agents
+# Alexsander Telles  
+Senior / Lead Data & AI Engineer  
+Generative AI · Data Platforms · End-to-End Systems
 
-I am a Data and Artificial Intelligence Engineer with solid experience designing and building **end-to-end data and generative AI solutions**, from data ingestion and modeling to scalable APIs and production deployment.
+I am a Senior / Lead Engineer with strong experience designing and leading **end-to-end data and Generative AI solutions**, from data architecture and orchestration to production-grade APIs and user-facing systems.
 
-My work focuses on **applied Generative AI**, combining LLMs, RAG architectures, intelligent agents and modern data platforms to solve real business problems.
-
----
-
-## 🧠 Areas of Expertise
-
-- Generative AI (LLMs, RAG, Agents, Prompt Engineering)
-- Data Engineering (Databricks, Spark, Delta Lake, Airflow)
-- Backend APIs (FastAPI, REST, async architectures)
-- Vector Databases & Semantic Search
-- MLOps, Observability & Data Governance
-- Cloud-ready architectures and production-grade systems
+My work focuses on **applied Generative AI in real business and regulated environments**, combining LLMs, Retrieval-Augmented Generation (RAG), intelligent agents and modern data platforms with an emphasis on explainability, governance and long-term maintainability.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Technical Leadership & Scope
 
-### 🔹 Neobank Assistant (Generative AI + RAG)
-End-to-end AI assistant architecture for financial use cases, including:
-- Document ingestion and semantic indexing
-- Retrieval-Augmented Generation
-- FastAPI backend for inference and orchestration
-- Focus on scalability, explainability and data governance
+- Architecture and technical decision-making for data and AI systems  
+- Design and implementation of RAG pipelines and agent-based architectures  
+- Ownership of backend services, data pipelines and AI inference layers  
+- Hands-on contribution across the stack when required to deliver complete products  
+- Focus on production readiness, observability, risk and governance  
+
+---
+
+## 🚀 Areas of Expertise
+
+- Generative AI and Intelligent Agents  
+- Retrieval-Augmented Generation (RAG) architectures  
+- Data Engineering and Lakehouse platforms  
+- Backend and API development  
+- Full-product delivery (backend-first, UI when needed)  
+- MLOps, evaluation and AI governance  
+
+---
+
+## 📌 Selected Work
+
+### 🔹 Neobank Assistant — Generative AI Reference Architecture
+End-to-end Generative AI assistant architecture for financial use cases, designed with a focus on:
+- Document ingestion and semantic indexing  
+- Retrieval-Augmented Generation (RAG)  
+- Backend orchestration with FastAPI  
+- Explainability, data control and governance  
 
 👉 https://github.com/alevtelles/neobank-assistant
 
 ---
 
-### 🔹 Intelligent Virtual Agents
-Collection of projects exploring:
-- Multi-agent architectures
-- Task orchestration and decision flows
-- Business-oriented conversational AI
+### 🔹 Intelligent Agents & Conversational AI
+Projects exploring:
+- Multi-agent architectures  
+- Task orchestration and decision flows  
+- Business-oriented conversational systems  
 
-Technologies: FastAPI, LangChain, vector databases, LLM providers.
+Technologies include LLMs, LangChain/LangGraph, vector databases and backend APIs.
 
 ---
 
-### 🔹 Data Pipelines & Lakehouse Architectures
-Realistic data engineering projects covering:
-- High-volume ingestion pipelines
-- Bronze / Silver / Gold layers
-- Data quality, observability and analytics readiness
+### 🔹 Data Platforms & Pipelines
+Production-oriented data engineering projects involving:
+- High-volume ingestion pipelines  
+- Lakehouse architectures (Bronze / Silver / Gold)  
+- Analytics-ready datasets with quality and observability  
 
-Stack: Databricks, Spark, Delta Lake, Airflow.
+Stack: Databricks, Apache Spark, Delta Lake, Airflow.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**AI & LLMs:** OpenAI, LangChain, RAG, embeddings  
-**Data:** Databricks, Spark, Delta Lake, PostgreSQL  
-**Backend:** FastAPI  
-**Infra & Ops:** Docker, CI/CD, cloud-native patterns  
+**Languages**
+- Python, SQL, JavaScript / TypeScript  
+
+**Generative AI & LLMs**
+- OpenAI and LLM APIs  
+- Retrieval-Augmented Generation (RAG)  
+- Prompt engineering and embeddings  
+- Agent-based architectures  
+
+**LLM Orchestration & Evaluation**
+- LangChain, LangGraph  
+- LangSmith (tracing and evaluation)  
+- Prompt versioning and experimentation  
+
+**Vector Databases & Semantic Search**
+- Qdrant, Pinecone  
+- pgvector  
+- Similarity search and hybrid retrieval  
+
+**Data Engineering & Platforms**
+- Databricks, Apache Spark  
+- Delta Lake (Bronze / Silver / Gold)  
+- Apache Airflow  
+
+**Backend & APIs**
+- FastAPI, Node.js  
+- REST APIs and async architectures  
+
+**MLOps & Experimentation**
+- MLflow  
+- Model lifecycle management  
+- Experiment tracking and evaluation  
+
+**Databases**
+- PostgreSQL  
+- Transactional and analytical data modeling  
+
+**Infrastructure & Operations**
+- Docker  
+- CI/CD pipelines  
+- Cloud-native architectures  
+- Environment isolation and secrets management  
 
 ---
 
-## 📌 About this GitHub
+## 🔍 About This GitHub
 
-This GitHub contains:
-- Applied AI experiments
-- Architecture prototypes
-- Production-oriented backend and data solutions
+This GitHub hosts:
+- Applied AI and data engineering projects  
+- Architecture prototypes and reference implementations  
+- Production-minded solutions reflecting real-world trade-offs  
 
-Each repository reflects **design decisions, trade-offs and engineering practices** commonly used in real-world environments.
+Repositories are organized to emphasize **engineering decisions, system design and ownership**, not just isolated experiments.
 
 ---
 
 ## 🌐 Links
-- Website: https://alexsander.app.br
-- LinkedIn: https://www.linkedin.com/in/alextelles/
+
+- Website: https://alexsander.app.br  
+- LinkedIn: [https://www.linkedin.com/in/alextelles/](https://www.linkedin.com/in/alexsander-valente/)
 
