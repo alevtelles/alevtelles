@@ -1,7 +1,4 @@
 <!-- HEADER BANNER -->
-
-![Profile](image.png)
-
 # Alexsander Telles  
 Senior / Lead Data & AI Engineer  
 Generative AI · Data Platforms · End-to-End Systems
