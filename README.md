@@ -2,10 +2,6 @@
 
 # Alexsander Telles
 
-### Arquiteto de Soluções em IA • Staff Software Engineer • Líder Técnico
-
-**Inteligência Artificial Generativa · Arquitetura de Software · Agentes Inteligentes · Sistemas Corporativos**
-
 Sou Arquiteto de Soluções em IA e Engenheiro de Software, com mais de 15 anos de experiência projetando plataformas escaláveis, arquiteturas corporativas e produtos baseados em Inteligência Artificial.
 
 Meu trabalho é transformar Inteligência Artificial Generativa em soluções prontas para produção, combinando Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Sistemas Multiagentes, arquiteturas modernas de backend e aplicações cloud-native.
