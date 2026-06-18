@@ -247,16 +247,23 @@ Mais do que experimentos isolados, este espaço apresenta a forma como projetos 
 
 ---
 
-# 🌱 Atualmente Estudando
+# 🚀 Atuação Atual
 
-* Arquitetura Corporativa para IA
-* Sistemas Agentic AI
+Minha atuação está concentrada no desenho, arquitetura e desenvolvimento de soluções de Inteligência Artificial para ambientes corporativos, com foco em:
+
+* Arquitetura de Soluções em IA
+* Inteligência Artificial Generativa
+* Sistemas Multiagentes
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
 * Model Context Protocol (MCP)
-* Frameworks de Avaliação para IA
-* Observabilidade de LLMs
-* Segurança em IA
-* Plataformas Cloud-native para IA
-* Sistemas Distribuídos Multiagentes
+* Arquiteturas Cloud-native
+* Observabilidade e Governança de IA
+* Engenharia de Backend
+* Integração de Sistemas Corporativos
+* Plataformas de Dados
+* Liderança Técnica
+
 
 ---
 
