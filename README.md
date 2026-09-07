@@ -28,15 +28,18 @@
 
 # 👋 Sobre
 
-Trabalho com Product Engineering, Arquitetura de Software, Inteligência Artificial e Dados. Na prática, isso significa pegar um problema de negócio e transformar em algo que funciona em produção, não em um protótipo de vitrine.
+Trabalho com engenharia de software, arquitetura, inteligência artificial e dados, normalmente em problemas que exigem mais do que apenas desenvolver uma funcionalidade isolada.
 
-Minha atuação combina visão de produto, arquitetura e desenvolvimento hands-on. Participo desde o entendimento do problema até as decisões arquiteturais, passando pelo desenho de APIs, serviços, integrações e sistemas distribuídos.
+Gosto de entender o contexto do problema, participar das decisões técnicas e ajudar a transformar uma necessidade de negócio em uma solução que consiga ser implementada, mantida e operada em produção.
 
-Tenho experiência com IA Generativa, LLMs, RAG, agentes de IA e sistemas multiagentes, levando essas capacidades para aplicações corporativas. Trato IA como qualquer outro componente de produção: precisa de segurança, observabilidade, governança, confiabilidade e alguém responsável quando algo quebra.
+Minha experiência passa por APIs, integrações, serviços distribuídos, plataformas de dados e aplicações com inteligência artificial. Nos últimos projetos, tenho trabalhado bastante com IA Generativa, LLMs, RAG, agentes de IA e sistemas multiagentes, principalmente na integração dessas tecnologias com sistemas e processos reais.
 
-No dia a dia, trabalho com Python, FastAPI, Go, arquiteturas distribuídas, cloud, bancos relacionais e vetoriais, conectando software, dados e IA na construção de produtos e plataformas.
+No dia a dia, trabalho principalmente com Python, FastAPI, Go, bancos relacionais e vetoriais, cloud e arquiteturas distribuídas. Também participo de decisões relacionadas a segurança, observabilidade, integração, dados e operação dos sistemas.
 
-Busco ownership de ponta a ponta: entender o problema, participar das decisões técnicas e de produto, definir uma arquitetura que se sustente ao longo do tempo e acompanhar a solução até a operação em produção, não apenas até o deploy.
+Meu perfil é bastante hands-on. Gosto de participar tanto da arquitetura quanto da implementação, acompanhar as decisões ao longo do desenvolvimento e entender como a solução se comporta depois que entra em produção.
+
+Hoje, meu foco profissional está em Product Engineering e Arquitetura de Software e IA, mantendo uma atuação próxima de engenharia de dados e desenvolvimento de software.
+
 
 
 ---
