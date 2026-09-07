@@ -28,13 +28,16 @@
 
 # 👋 Sobre
 
-Sou Arquiteto de Soluções em IA e Engenheiro de Software com mais de 15 anos de experiência projetando arquiteturas corporativas, plataformas escaláveis e soluções baseadas em Inteligência Artificial.
+Trabalho com Product Engineering, Arquitetura de Software, Inteligência Artificial e Dados. Na prática, isso significa pegar um problema de negócio e transformar em algo que funciona em produção, não em um protótipo de vitrine.
 
-Minha atuação está concentrada na construção de aplicações preparadas para produção, combinando **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Sistemas Multiagentes**, **Engenharia de Dados**, arquiteturas modernas de backend e plataformas cloud-native.
+Minha atuação combina visão de produto, arquitetura e desenvolvimento hands-on. Participo desde o entendimento do problema até as decisões arquiteturais, passando pelo desenho de APIs, serviços, integrações e sistemas distribuídos.
 
-Ao longo da minha carreira participei da concepção, arquitetura e implementação de soluções utilizadas em ambientes corporativos, sempre priorizando escalabilidade, segurança, governança, observabilidade e geração de valor para o negócio.
+Tenho experiência com IA Generativa, LLMs, RAG, agentes de IA e sistemas multiagentes, levando essas capacidades para aplicações corporativas. Trato IA como qualquer outro componente de produção: precisa de segurança, observabilidade, governança, confiabilidade e alguém responsável quando algo quebra.
 
-Acredito que Inteligência Artificial só entrega resultados consistentes quando construída sobre fundamentos sólidos de Engenharia de Software.
+No dia a dia, trabalho com Python, FastAPI, Go, arquiteturas distribuídas, cloud, bancos relacionais e vetoriais, conectando software, dados e IA na construção de produtos e plataformas.
+
+Busco ownership de ponta a ponta: entender o problema, participar das decisões técnicas e de produto, definir uma arquitetura que se sustente ao longo do tempo e acompanhar a solução até a operação em produção, não apenas até o deploy.
+
 
 ---
 
