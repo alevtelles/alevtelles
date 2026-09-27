@@ -607,21 +607,35 @@ Meus conteúdos abordam principalmente:
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alevtelles&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevtelles&layout=compact&hide_border=true&locale=pt-br" />
+<img src="https://streak-stats.demolab.com?user=alevtelles&hide_border=true&locale=pt_BR&theme=github-dark-blue" />
 
 </div>
 
-<br>
+---
+
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alevtelles&hide_border=true&locale=pt_BR" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alevtelles&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Perfil
+
+<div align="center">
+
+![Visualizações](https://komarev.com/ghpvc/?username=alevtelles&label=Visualizações&style=for-the-badge)
+
+![Seguidores](https://img.shields.io/github/followers/alevtelles?label=Seguidores&style=for-the-badge&logo=github)
+
+![Stars](https://img.shields.io/github/stars/alevtelles?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github)
 
 </div>
 
