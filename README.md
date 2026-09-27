@@ -607,68 +607,48 @@ Meus conteúdos abordam principalmente:
 
 ---
 
+---
+
 ## 📊 GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alevtelles&hide_border=true&locale=pt_BR&theme=github-dark-blue" />
+<img src="https://streak-stats.demolab.com?user=alevtelles&hide_border=true&locale=pt_BR&theme=github-dark-blue" alt="GitHub Streak" />
+
+<br><br>
+
+<a href="https://github.com/alevtelles">
+  <img src="https://img.shields.io/github/followers/alevtelles?label=Seguidores&style=flat-square&logo=github&logoColor=white" alt="Seguidores">
+</a>
+<a href="https://github.com/alevtelles?tab=repositories">
+  <img src="https://img.shields.io/github/stars/alevtelles?affiliations=OWNER&label=Stars&style=flat-square&logo=github&logoColor=white" alt="Stars">
+</a>
+<img src="https://komarev.com/ghpvc/?username=alevtelles&label=Visualizações&style=flat-square" alt="Visualizações">
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+## 🌐 Onde me encontrar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alevtelles&theme=github-compact&hide_border=true" />
+<a href="https://alexsander.app.br/">
+  <img src="https://img.shields.io/badge/Site-alexsander.app.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site">
+</a>
+<a href="https://www.linkedin.com/in/alexsander-valente/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alexsander_Valente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/alevtelles">
+  <img src="https://img.shields.io/badge/GitHub-alevtelles-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
----
-
-## 🏆 Perfil
+<br>
 
 <div align="center">
 
-![Visualizações](https://komarev.com/ghpvc/?username=alevtelles&label=Visualizações&style=for-the-badge)
-
-![Seguidores](https://img.shields.io/github/followers/alevtelles?label=Seguidores&style=for-the-badge&logo=github)
-
-![Stars](https://img.shields.io/github/stars/alevtelles?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github)
-
-</div>
-
----
-
-# 📈 Atividade no GitHub
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=alevtelles&hide_border=true)](https://github.com/alevtelles)
-
----
-
-# 📌 Perfil
-
-<div align="center">
-
-![Visualizações](https://komarev.com/ghpvc/?username=alevtelles&label=Visualizações&style=for-the-badge)
-
-![Seguidores](https://img.shields.io/github/followers/alevtelles?label=Seguidores&style=for-the-badge&logo=github)
-
-![Stars](https://img.shields.io/github/stars/alevtelles?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github)
-
-</div>
-
----
-
-# 🌐 Onde me encontrar
-
-<div align="center">
-
-[![Site](https://img.shields.io/badge/Site-alexsander.app.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexsander.app.br/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexsander_Valente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-valente/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-alevtelles-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alevtelles)
+**Arquitetura de Software & IA · Product Engineering · Engenharia de Dados**
 
 </div>
